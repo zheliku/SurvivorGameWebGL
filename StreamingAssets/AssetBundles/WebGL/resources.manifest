@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 2522739510
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 99956ee3efdb184cc039ed8e308b3ea7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 99956ee3efdb184cc039ed8e308b3ea7
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Resources/EnemyDie.mp3
+- Assets/Resources/Exp.wav
+- Assets/Resources/Hurt.wav
+- Assets/Resources/Bomb.wav
+- Assets/Resources/Achievement.wav
+- Assets/Resources/Knife.wav
+- Assets/Resources/TreasureChest.wav
+- Assets/Resources/Ball.wav
+- Assets/Resources/Walk.wav
+- Assets/Resources/Coin.wav
+- Assets/Resources/ButtonClick.mp3
+- Assets/Resources/GetAllExp.wav
+- Assets/Resources/Die.wav
+- Assets/Resources/Hit.wav
+- Assets/Resources/Hp.wav
+- Assets/Resources/LevelUp.ogg
+- Assets/Resources/GamePass.wav
+- Assets/Resources/AbilityLevelUp.wav
+Dependencies: []
